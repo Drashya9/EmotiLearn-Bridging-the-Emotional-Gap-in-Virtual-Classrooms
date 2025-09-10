@@ -13,8 +13,8 @@ EmotiLearn is a video-focused emotion recognition system that enhances online ed
 EmotiLearn/
 - README.md
 - requirements.txt
-- src/ # Python scripts
-- notebooks/ # Jupyter notebooks (experiments)
+- Video Models
+- AAudio Models and Zoom Chat Analysis Tools
 
 ## Installation
 Clone the repo and install dependencies:
