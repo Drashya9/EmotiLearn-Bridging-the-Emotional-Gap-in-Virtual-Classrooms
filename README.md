@@ -14,7 +14,7 @@ EmotiLearn/
 - README.md
 - requirements.txt
 - Video Models
-- AAudio Models and Zoom Chat Analysis Tools
+- Audio Models and Zoom Chat Analysis Tools
 
 ## Installation
 Clone the repo and install dependencies:
