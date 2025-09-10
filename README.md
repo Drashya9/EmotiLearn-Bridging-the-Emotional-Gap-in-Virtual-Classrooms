@@ -25,12 +25,12 @@ pip install -r requirements.txt
 ```
 
 ## Results
-GRU achieved the highest accuracy overall, particularly for Confusion (73.47%) and Frustration (83.67%).
-3D CNN + Ordinal Regression performed best on Engagement (60.5%).
-ResNet baseline underperformed, and Transformer struggled with class imbalance.
+- GRU achieved the highest accuracy overall, particularly for Confusion (73.47%) and Frustration (83.67%).
+- 3D CNN + Ordinal Regression performed best on Engagement (60.5%).
+- ResNet baseline underperformed, and Transformer struggled with class imbalance.
 
 ## Future Work
-Real-time deployment via lightweight models.
-Integration of textual chat-based cues.
-Domain adaptation for diverse environments.
-Ethical deployment with opt-in transparency.
+- Real-time deployment via lightweight models.
+- Integration of textual chat-based cues.
+- Domain adaptation for diverse environments.
+- Ethical deployment with opt-in transparency.
