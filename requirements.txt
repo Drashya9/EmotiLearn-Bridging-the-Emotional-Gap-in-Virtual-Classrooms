@@ -1,0 +1,11 @@
+torch
+torchvision
+facenet-pytorch
+transformers
+scikit-learn
+imbalanced-learn
+opencv-python
+matplotlib
+pandas
+numpy
+jupyter
